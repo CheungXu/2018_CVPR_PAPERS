@@ -19,6 +19,8 @@ Good deep-learning papers in 2018 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Context-aware Deep Feature Compression for High-speed Visual Tracking]
 
+:white_check_mark: [End-to-end Flow Correlation Tracking with Spatial-temporal Attention]
+
 ## 视频插值
 
 :white_check_mark: [Context-aware Synthesis for Video Frame Interpolation]
@@ -35,6 +37,8 @@ Good deep-learning papers in 2018 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Learning to Segment Every Thing]
 
+:white_check_mark: [Low-Latency Video Semantic Segmentation]
+
 ## 风格迁移
 
 :white_check_mark: [Arbitrary Style Transfer with Deep Feature Reshuffle]
@@ -46,3 +50,19 @@ Good deep-learning papers in 2018 IEEE Conference on Computer Vision and Pattern
 ## 目标检测识别
 
 :white_check_mark: [R-FCN-3000 at 30fps: Decoupling Detection and Classification]
+
+## 视频摘要
+
+:white_check_mark: [Reconstruction Network for Video Captioning]
+
+## 理论研究
+
+:white_check_mark: [The Perception-Distortion Tradeoff]
+
+## 行人重识别
+
+:white_check_mark: [Person Transfer GAN to Bridge Domain Gap for Person Re-Identification]
+
+## 网络结构
+
+:white_check_mark: [CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes]
