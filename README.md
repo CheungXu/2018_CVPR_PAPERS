@@ -29,6 +29,8 @@ Good deep-learning papers in 2018 IEEE Conference on Computer Vision and Pattern
 
 :white_check_mark: [Decorrelated Batch Normalization]
 
+:white_check_mark: [Tips and Tricks for Visual Question Answering:Learnings from the 2017 Challenge]
+
 ## 图像分割
 
 :white_check_mark: [Learning to Segment Every Thing]
